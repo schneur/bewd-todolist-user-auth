@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.11'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
-gem 'bcrypt', '~> 3.1'
+gem 'bcrypt', '~> 3.1.18'
 
 # AWS S3
 gem 'aws-sdk-s3', '~> 1.112'
